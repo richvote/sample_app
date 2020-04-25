@@ -37,5 +37,6 @@ $ rails test
 $ rails server
 ```
 
+HEROKU   https://rocky-spire-46012.herokuapp.com/
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
